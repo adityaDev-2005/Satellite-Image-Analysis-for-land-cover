@@ -11,6 +11,7 @@ This project explores satellite image classification using Deep Learning and the
 - **Training images:** 18,900
 - **Validation images:** 5,400
 - **Test images:** 2,700
+- Link to dataset : https://www.kaggle.com/datasets/apollo2506/eurosat-dataset
 
 ## Implementation
 
