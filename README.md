@@ -1,1 +1,1 @@
-# Satellite-Image-Analysis-for-land-cover-Data-processing-Training-
+# Satellite-Image-Analysis-for-land-cover
