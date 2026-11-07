@@ -1,5 +1,3 @@
-# Satellite-Image-Analysis-for-land-cover
-
 # Satellite Image Analysis for Land Cover Classification
 
 ## Overview
